@@ -1,7 +1,7 @@
 {
-  "host_domain": "",
-  "api_domain": "",
-  "iFrame_domain": "",
+  "host_domain": "https://cfg.gmwin.io/",
+  "api_domain": "https://api.gmwin.io/",
+  "iFrame_domain": "https://web.gem.win/",
   "rs_domain": "https://web.gem.win/",
   "sport_domain": "",
   "ws_sport_domain": "",
@@ -11,8 +11,8 @@
   "xd_livestream_domain": "",
   "xd_livestream_video_url": "",
   "xd_livestream_ws_url": "",
-  "appName": "",
-  "brand": "",
+  "appName": "gem",
+  "brand": "gem",
   "files_config": {
     "prefab_baucua": {
       "totalTextFileCount": 251,
