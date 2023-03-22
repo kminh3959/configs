@@ -3,8 +3,8 @@
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://web.gem.win/",
   "rs_domain": "https://web.gem.win/",
-  "tx_livestream_video_url": "https://web.gem.win/livestream_page/taixiulive_withautoplay_mobile.html",
-  "xd_livestream_video_url": "https://web.gem.win/livestream_page/xocdialive_withautoplay_mobile.html",
+  "tx_livestream_video_url": "https://web.gem.win/livestream_page/taixiulive_withautoplay_web.html",
+  "xd_livestream_video_url": "https://web.gem.win/livestream_page/xocdialive_withautoplay_web.html",
   "appName": "gem",
   "brand": "gem",
   "files_config": {
