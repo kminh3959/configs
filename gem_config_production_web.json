@@ -183,6 +183,10 @@
     "game_webview": {
       "totalTextFileCount": 9,
       "totalTextImageCount": 6
+    },
+    "sportbook": {
+      "totalTextFileCount": 467,
+      "totalTextImageCount": 38
     }
   }
 }
