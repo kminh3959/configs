@@ -3,6 +3,7 @@
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://web.gem2.win/",
   "rs_domain": "https://web.gem2.win/",
+  "lp_domain": "https://gem2.win/",
   "rs_static_domain": "https://web.gem2.win/",
   "tx_livestream_video_url": "https://web.gem2.win/livestream_page/taixiulive_withautoplay_008.html",
   "xd_livestream_video_url": "https://web.gem2.win/livestream_page/xocdialive_withautoplay_008.html",
