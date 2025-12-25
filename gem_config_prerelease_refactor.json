@@ -4,11 +4,14 @@
   "iFrame_domain": "https://rs.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/",
   "lp_domain": "https://gem.win/",
-  "tx_livestream_video_url": "/livestream_page/taixiulive_withautoplay_021.html",
-  "xd_livestream_video_url": "/livestream_page/xocdialive_withautoplay_021.html",
-  "tx_livestream_video_url_nosound": "/livestream_page/taixiulive_nosound_017.html",
-  "xd_livestream_video_url_nosound": "/livestream_page/xocdialive_nosound_017.html",
-  "tx88_livestream_auth_video_url": "/livestream_page/txlive88_withautoplay_04.html",
+  "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_016p.html",
+  "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_213_016p.html",
+  "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_016p.html",
+  "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_016p.html",
+  "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
+  "c5_config": {
+    "c5_sicbo_live_video_url": "internal/livestream_page/c5_sicbolive_withautoplay_17w_s.html"
+  },
   "loginConfig": {
     "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
     "tokenEndpoint": "https://login.sunwin.vin/auth/token",
