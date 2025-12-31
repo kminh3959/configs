@@ -11,8 +11,8 @@
   "xd_livestream_video_url_nosound": "/livestream_page/xocdialive_nosound_017.html",
   "tx88_livestream_auth_video_url": "/livestream_page/txlive88_withautoplay_04.html",
   "loginConfig": {
-    "authorizationEndpoint": "https://login.gem.win/auth/authorize",
-    "tokenEndpoint": "https://login.gem.win/auth/token",
+    "authorizationEndpoint": "https://login.gemwin.me/auth/authorize",
+    "tokenEndpoint": "https://login.gemwin.me/auth/token",
     "clientId": "gem.win"
   },
   "appName": "gem",
