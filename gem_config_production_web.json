@@ -10,6 +10,23 @@
   "tx_livestream_video_url_nosound": "/livestream_page/taixiulive_nosound_017.html",
   "xd_livestream_video_url_nosound": "/livestream_page/xocdialive_nosound_017.html",
   "tx88_livestream_auth_video_url": "/livestream_page/txlive88_withautoplay_04.html",
+  "streamUrls": {
+    "stream": {
+      "tx88_livestream_auth_video_url": "/livestream_page/txlive88_withautoplay_04.html",
+      "bacc_livestream_video_url": "/livestream_page/baccarat_live_withautoplay.html",
+      "tx_livestream_video_url": "/livestream_page/taixiulive_withautoplay_021.html",
+      "tx_livestream_video_url_nosound": "/livestream_page/taixiulive_nosound_017.html",
+      "xd_livestream_video_url": "/livestream_page/xocdialive_withautoplay_021.html",
+      "xd_livestream_video_url_nosound": "/livestream_page/xocdialive_nosound_017.html",
+      "xdtt_livestream_video_url": "/livestream_page/xocdiathuytinh_withautoplay_213_v001.html"
+    },
+    "j_stream": {
+      "bacc_livestream_video_url": "/livestream_page/bcrlive_withautoplay_jstream_05w.html",
+      "tx88_livestream_auth_video_url": "/livestream_page/sicbolive_withautoplay_jstream_05w.html",
+      "xdtt_livestream_video_url": "/livestream_page/xdttlive_withautoplay_jstream_06w.html",
+      "phising_livestream_video_url": "/livestream_page/phising_livestream_jstream_06w.html"
+    }
+  },
   "loginConfig": {
     "authorizationEndpoint": "https://login.gemwin.me/auth/authorize",
     "tokenEndpoint": "https://login.gemwin.me/auth/token",
