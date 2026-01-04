@@ -31,6 +31,7 @@
     "tokenEndpoint": "https://login.gemwin.me/auth/token",
     "clientId": "gem.win"
   },
+  "ncc_games": "livestream_page/ncc_games_fullscreen.html",
   "appName": "gem",
   "brand": "gem",
   "files_config": {
