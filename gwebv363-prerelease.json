@@ -1,0 +1,33 @@
+{
+  "host_domain": "https://cfg.gmwin.io/",
+  "api_domain": "https://api.gmwin.io/",
+  "iFrame_domain": "https://rs.megstatic.com/",
+  "rs_domain": "https://refactor.megstatic.com/",
+  "lp_domain": "https://gemwin.me/",
+  "streamUrls": {
+    "stream": {
+      "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
+      "bacc_livestream_video_url": "internal/livestream_page/baccarat_live_withautoplay.html",
+      "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_017d.html",
+      "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_213_017d.html",
+      "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_017d.html",
+      "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_017d.html",
+      "phising_livestream_video_url": "internal/livestream_page/phising_livestream_withautoplay_213_v025k.html",
+      "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html"
+    },
+    "j_stream": {
+      "bacc_livestream_video_url": "internal/livestream_page/bcrlive_withautoplay_jstream_05w.html",
+      "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_jstream_05w.html",
+      "xdtt_livestream_video_url": "xdttlive_withautoplay_jstream_07w.html",
+      "phising_livestream_video_url": "internal/livestream_page/phising_livestream_jstream_07w.html"
+    }
+  },
+  "loginConfig": {
+    "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
+    "tokenEndpoint": "https://login.sunwin.vin/auth/token",
+    "clientId": "gem.win"
+  },
+  "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
+  "appName": "gem",
+  "brand": "gem"
+}
