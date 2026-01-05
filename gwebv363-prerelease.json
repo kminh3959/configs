@@ -2,7 +2,7 @@
   "host_domain": "https://cfg.gmwin.io/",
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://rs.megstatic.com/",
-  "rs_domain": "https://refactor.megstatic.com/",
+  "rs_domain": "https://refactor.megstatic.com/prerelease/",
   "lp_domain": "https://gemwin.me/",
   "streamUrls": {
     "stream": {
