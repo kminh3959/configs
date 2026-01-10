@@ -3,7 +3,7 @@
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://rs.megstatic.com/",
   "rs_domain": "https://rs.megstatic.com/",
-  "lp_domain": "https://gemwin.me/",
+  "lp_domain": "https://gemwin.fun/",
   "rs_static_domain": "https://rs.megstatic.com/",
   "tx_livestream_video_url": "/livestream_page/taixiulive_withautoplay_021.html",
   "xd_livestream_video_url": "/livestream_page/xocdialive_withautoplay_021.html",
@@ -31,8 +31,8 @@
     }
   },
   "loginConfig": {
-    "authorizationEndpoint": "https://login.gemwin.me/auth/authorize",
-    "tokenEndpoint": "https://login.gemwin.me/auth/token",
+    "authorizationEndpoint": "https://login.gemwin.fun/auth/authorize",
+    "tokenEndpoint": "https://login.gemwin.fun/auth/token",
     "clientId": "gem.win"
   },
   "ncc_games": "livestream_page/ncc_games_fullscreen.html",
