@@ -2,8 +2,9 @@
   "host_domain": "https://cfg.gmwin.io/",
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://rs.megstatic.com/",
-  "rs_domain": "https://rsweb.megstatic.com/",
+  "rs_domain": "https://refactor.megstatic.com/",
   "lp_domain": "https://gemwin.fun/",
+  "rs_static_domain": "https://rs.megstatic.com/",
   "streamUrls": {
     "stream": {
       "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
