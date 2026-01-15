@@ -27,9 +27,16 @@
     }
   },
   "loginConfig": {
-    "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
-    "tokenEndpoint": "https://login.sunwin.vin/auth/token",
-    "clientId": "gem.win"
+    "gem": {
+      "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
+      "tokenEndpoint": "https://login.sunwin.vin/auth/token",
+      "clientId": "gem.win"
+    },
+    "sao.vip": {
+      "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
+      "tokenEndpoint": "https://login.sunwin.vin/auth/token",
+      "clientId": "sao.vip"
+    }
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "gem",
