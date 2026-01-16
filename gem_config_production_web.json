@@ -3,7 +3,7 @@
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://rs.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/",
-  "lp_domain": "https://gemwin.fun/",
+  "lp_domain": "https://gemwin.top/",
   "rs_static_domain": "https://rs.megstatic.com/",
   "streamUrls": {
     "stream": {
@@ -26,8 +26,8 @@
     }
   },
   "loginConfig": {
-    "authorizationEndpoint": "https://login.gemwin.fun/auth/authorize",
-    "tokenEndpoint": "https://login.gemwin.fun/auth/token",
+    "authorizationEndpoint": "https://login.gemwin.top/auth/authorize",
+    "tokenEndpoint": "https://login.gemwin.top/auth/token",
     "clientId": "gem.win"
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
