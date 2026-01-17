@@ -28,7 +28,12 @@
   "loginConfig": {
     "authorizationEndpoint": "https://login.gemwin.top/auth/authorize",
     "tokenEndpoint": "https://login.gemwin.top/auth/token",
-    "clientId": "gem.win"
+    "clientId": "gem.win",
+    "gem": {
+      "authorizationEndpoint": "https://login.gemwin.top/auth/authorize",
+      "tokenEndpoint": "https://login.gemwin.top/auth/token",
+      "clientId": "gem.win"
+    }
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "gem",
