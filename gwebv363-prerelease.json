@@ -28,13 +28,13 @@
   },
   "loginConfig": {
     "gem": {
-      "authorizationEndpoint": "https://login-internal.sunwin.sx/auth/authorize",
-      "tokenEndpoint": "https://login-internal.sunwin.sx/auth/token",
+      "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
+      "tokenEndpoint": "https://login-internal.sunwin.vin/auth/token",
       "clientId": "gem.win"
     },
     "sao.vip": {
-      "authorizationEndpoint": "https://login-internal.sunwin.sx/auth/authorize",
-      "tokenEndpoint": "https://login-internal.sunwin.sx/auth/token",
+      "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
+      "tokenEndpoint": "https://login-internal.sunwin.vin/auth/token",
       "clientId": "sao.vip"
     }
   },
