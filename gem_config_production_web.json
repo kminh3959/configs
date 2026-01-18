@@ -33,6 +33,11 @@
       "authorizationEndpoint": "https://login.gemwin.top/auth/authorize",
       "tokenEndpoint": "https://login.gemwin.top/auth/token",
       "clientId": "gem.win"
+    },
+    "sao.vip": {
+      "authorizationEndpoint": "https://login.sao.vip/auth/authorize",
+      "tokenEndpoint": "https://login.sao.vip/auth/token",
+      "clientId": "sao.vip"
     }
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
