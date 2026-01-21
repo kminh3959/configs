@@ -3,7 +3,7 @@
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://rs.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/",
-  "lp_domain": "https://gemwin.top/",
+  "lp_domain": "https://gemwin.club/",
   "rs_static_domain": "https://rs.megstatic.com/",
   "streamUrls": {
     "stream": {
@@ -26,12 +26,9 @@
     }
   },
   "loginConfig": {
-    "authorizationEndpoint": "https://login.gemwin.top/auth/authorize",
-    "tokenEndpoint": "https://login.gemwin.top/auth/token",
-    "clientId": "gem.win",
     "gem": {
-      "authorizationEndpoint": "https://login.gemwin.top/auth/authorize",
-      "tokenEndpoint": "https://login.gemwin.top/auth/token",
+      "authorizationEndpoint": "https://login.gemwin.club/auth/authorize",
+      "tokenEndpoint": "https://login.gemwin.club/auth/token",
       "clientId": "gem.win"
     },
     "sao.vip": {
