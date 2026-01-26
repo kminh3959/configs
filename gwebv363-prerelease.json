@@ -4,6 +4,10 @@
   "iFrame_domain": "https://rs.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/prerelease/",
   "lp_domain": "https://gemwin.me/",
+  "lp_domains": {
+    "gem": "https://gemwin.in/",
+    "sao.vip": "https://sao.vip/"
+  },
   "streamUrls": {
     "stream": {
       "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
