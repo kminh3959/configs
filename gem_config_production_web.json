@@ -28,18 +28,6 @@
       "xd_livestream_video_url_nosound": "internal/livestream_page/xdlive_nosound_jstream_01w.html"
     }
   },
-  "loginConfig": {
-    "gem": {
-      "authorizationEndpoint": "https://login.gemwin.to/auth/authorize",
-      "tokenEndpoint": "https://login.gemwin.to/auth/token",
-      "clientId": "gem.win"
-    },
-    "sao.vip": {
-      "authorizationEndpoint": "https://login.sao.vip/auth/authorize",
-      "tokenEndpoint": "https://login.sao.vip/auth/token",
-      "clientId": "sao.vip"
-    }
-  },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "gem",
   "brand": "gem"
