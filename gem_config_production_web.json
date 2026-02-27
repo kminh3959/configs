@@ -3,9 +3,8 @@
   "api_domain": "https://api.gmwin.io/",
   "iFrame_domain": "https://rs.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/",
-  "lp_domain": "https://gemwin.to/",
   "lp_domains": {
-    "gem": "https://gemwin.to/",
+    "gem": "https://gemwin.moi/",
     "sao.vip": "https://sao.vip/"
   },
   "streamUrls": {
