@@ -7,6 +7,10 @@
     "gem": "https://gemwin.my/",
     "sao.vip": "https://sao.vip/"
   },
+  "web_domains": {
+    "gem": "https://play.gemwin.my/",
+    "sao.vip": "https://play.sao.vip/"
+  },
   "streamUrls": {
     "stream": {
       "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
