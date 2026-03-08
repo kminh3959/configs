@@ -269,16 +269,16 @@
       "typeGame": 3
     },
     {
-      "gameID": 219,
-      "prefabName": "data/prefabs/ico_dragonball",
+      "gameID": 206,
+      "prefabName": "data/prefabs/ico_caothap",
       "position": 1,
       "type": 2,
       "isEnable": true,
       "typeGame": 2
     },
     {
-      "gameID": 206,
-      "prefabName": "data/prefabs/ico_caothap",
+      "gameID": 219,
+      "prefabName": "data/prefabs/ico_dragonball",
       "position": 1,
       "type": 2,
       "isEnable": true,
