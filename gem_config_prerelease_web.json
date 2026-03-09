@@ -144,7 +144,7 @@
       "prefabName": "data/prefabs/ico_tx-livestream",
       "position": 1,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -193,7 +193,7 @@
       "prefabName": "data/prefabs/ico_c5-bacc-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -289,7 +289,7 @@
       "prefabName": "data/prefabs/ico_kimcuong",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 2
     },
     {
@@ -347,7 +347,7 @@
       "prefabName": "data/prefabs/ico_frankenstein",
       "position": 2,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "isLandscape": false,
       "typeGame": 3
     },
@@ -411,7 +411,7 @@
       "prefabName": "data/prefabs/ico_sam",
       "position": 3,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 4
     },
     {
@@ -443,7 +443,7 @@
       "prefabName": "data/prefabs/ico_Lieng",
       "position": 3,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 4
     },
     {
@@ -507,7 +507,7 @@
       "prefabName": "data/prefabs/ico_chan",
       "position": 4,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "gameDisplayName": "Chắn"
     },
     {
@@ -557,7 +557,7 @@
       "prefabName": "data/prefabs/ico_vivo-live",
       "position": 4,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "isLandscape": false,
       "typeGame": 1
     }
