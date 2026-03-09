@@ -42,7 +42,7 @@
       "prefabName": "data/prefabs/ico_banca",
       "position": 0,
       "type": 1,
-      "isEnable": true
+      "isEnable": false
     },
     {
       "gameID": 300,
@@ -144,7 +144,7 @@
       "prefabName": "data/prefabs/ico_tx-livestream",
       "position": 1,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -539,7 +539,7 @@
       "prefabName": "data/prefabs/ico_via-live",
       "position": 4,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     },
