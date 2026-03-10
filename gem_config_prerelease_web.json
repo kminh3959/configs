@@ -4,10 +4,13 @@
   "iFrame_domain": "https://rsweb.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/prerelease/",
   "lp_domains": {
-    "gem": "https://gemwin.in/",
+    "gem": "https://gemwin.my/",
     "sao.vip": "https://sao.vip/"
   },
-  "rs_static_domain": "https://rsweb.megstatic.com/",
+  "web_domains": {
+    "gem": "https://play.gemwin.my/",
+    "sao.vip": "https://play.sao.vip/"
+  },
   "loginConfig": {
     "authorizationEndpoint": "https://login.gem.win/auth/authorize",
     "tokenEndpoint": "https://login.gem.win/auth/token",
