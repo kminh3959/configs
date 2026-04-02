@@ -4,11 +4,11 @@
   "iFrame_domain": "https://rsweb.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/prerelease/",
   "lp_domains": {
-    "gem": "https://gemwin.sx/",
+    "gem": "https://gemwin.ai/",
     "sao.vip": "https://sao.vip/"
   },
   "web_domains": {
-    "gem": "https://play.gemwin.sx/",
+    "gem": "https://play.gemwin.ai/",
     "sao.vip": "https://play.sao.vip/"
   },
   "loginConfig": {
