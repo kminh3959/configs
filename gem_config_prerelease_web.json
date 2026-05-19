@@ -240,20 +240,20 @@
       "typeGame": 1
     },
     {
-      "gameID": 218,
-      "prefabName": "data/prefabs/ico_slot_avenger",
-      "position": 1,
-      "type": 3,
-      "isEnable": true,
-      "typeGame": 3
-    },
-    {
       "gameID": 332,
       "prefabName": "data/prefabs/ico_c5-sicbowar",
       "position": 1,
       "type": 2,
       "isEnable": true,
       "typeGame": 1
+    },
+    {
+      "gameID": 218,
+      "prefabName": "data/prefabs/ico_slot_avenger",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
     },
     {
       "gameID": 217,
