@@ -564,7 +564,7 @@
       "prefabName": "data/prefabs/ico_bti-live",
       "position": 4,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false
     },
     {
