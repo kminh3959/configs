@@ -240,6 +240,14 @@
       "typeGame": 1
     },
     {
+      "gameID": 435,
+      "prefabName": "data/prefabs/ico_c5-roullet",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 1
+    },
+    {
       "gameID": 332,
       "prefabName": "data/prefabs/ico_c5-sicbowar",
       "position": 1,
