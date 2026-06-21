@@ -100,7 +100,7 @@
       "prefabName": "data/prefabs/ico_xdtt-livestream",
       "position": 0,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "isLandscape": false,
       "typeGame": 1
     },
