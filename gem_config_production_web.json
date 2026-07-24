@@ -591,5 +591,6 @@
       "isEnable": true,
       "isLandscape": false
     }
-  ]
+  ],
+  "isShowEventPopup": false
 }
