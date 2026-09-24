@@ -4,11 +4,11 @@
   "iFrame_domain": "https://rs.megstatic.com/",
   "rs_domain": "https://refactor.megstatic.com/",
   "lp_domains": {
-    "gem": "https://gemwin.ist/",
+    "gem": "https://gemwin.frl/",
     "sao.vip": "https://sao.vip/"
   },
   "web_domains": {
-    "gem": "https://play.gemwin.ist/",
+    "gem": "https://web.gemwin.frl/",
     "sao.vip": "https://play.sao.vip/"
   },
   "streamUrls": {
