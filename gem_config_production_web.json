@@ -40,7 +40,7 @@
       "prefabName": "data/prefabs/ico_banca",
       "position": 0,
       "type": 1,
-      "isEnable": false
+      "isEnable": true
     },
     {
       "gameID": 300,
@@ -93,7 +93,7 @@
       "prefabName": "data/prefabs/ico_sicbo",
       "position": 0,
       "type": 1,
-      "isEnable": false
+      "isEnable": true
     },
     {
       "gameID": 317,
@@ -386,14 +386,14 @@
       "prefabName": "data/prefabs/ico_keno",
       "position": 3,
       "type": 1,
-      "isEnable": false
+      "isEnable": true
     },
     {
       "gameID": 427,
       "prefabName": "data/prefabs/ico_roullet3d",
       "position": 3,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "gameDisplayName": "Roulette"
     },
     {
@@ -497,7 +497,7 @@
       "prefabName": "data/prefabs/ico_node_xi",
       "position": 4,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 4
     },
     {
@@ -505,7 +505,7 @@
       "prefabName": "data/prefabs/ico_node_bacc",
       "position": 4,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 4
     },
     {
