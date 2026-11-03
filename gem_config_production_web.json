@@ -142,7 +142,7 @@
       "prefabName": "data/prefabs/ico_tx-livestream",
       "position": 1,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
