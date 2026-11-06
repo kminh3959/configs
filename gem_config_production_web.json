@@ -199,7 +199,7 @@
       "prefabName": "data/prefabs/ico_c5-xocdialive",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -207,7 +207,7 @@
       "prefabName": "data/prefabs/ico_c5-sicbo-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
