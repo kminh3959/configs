@@ -51,6 +51,13 @@
       "isLandscape": false
     },
     {
+      "gameID": 508,
+      "prefabName": "data/prefabs/ico_qilin_game",
+      "position": 0,
+      "type": 1,
+      "isEnable": true
+    },
+    {
       "gameID": 506,
       "prefabName": "data/prefabs/ico_sunphung",
       "position": 0,
