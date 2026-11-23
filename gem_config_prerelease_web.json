@@ -595,6 +595,33 @@
       "type": 2,
       "isEnable": true,
       "isLandscape": false
+    },
+    {
+      "gameID": 256,
+      "prefabName": "data/prefabs/ico_dream-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 257,
+      "prefabName": "data/prefabs/ico_pragmatic-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 258,
+      "prefabName": "data/prefabs/ico_s88-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
     }
   ],
   "isShowEventPopup": false
