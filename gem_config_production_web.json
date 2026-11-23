@@ -182,7 +182,7 @@
       "prefabName": "data/prefabs/ico_c5-baucua-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -190,7 +190,7 @@
       "prefabName": "data/prefabs/ico_c5-rongho-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -198,7 +198,7 @@
       "prefabName": "data/prefabs/ico_c5-bacc-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -206,7 +206,7 @@
       "prefabName": "data/prefabs/ico_c5-xocdialive",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -214,7 +214,7 @@
       "prefabName": "data/prefabs/ico_c5-sicbo-livestream",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -222,7 +222,7 @@
       "prefabName": "data/prefabs/ico_c5-xocdiajackpot",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -230,7 +230,7 @@
       "prefabName": "data/prefabs/ico_c5-baclongbao",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -238,7 +238,7 @@
       "prefabName": "data/prefabs/ico_c5-taixiujackpot",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -246,7 +246,7 @@
       "prefabName": "data/prefabs/ico_c5-roullet",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
