@@ -581,22 +581,6 @@
       "typeGame": 1
     },
     {
-      "gameID": 254,
-      "prefabName": "data/prefabs/ico_bti-live",
-      "position": 4,
-      "type": 2,
-      "isEnable": true,
-      "isLandscape": false
-    },
-    {
-      "gameID": 255,
-      "prefabName": "data/prefabs/ico_saba-live",
-      "position": 4,
-      "type": 2,
-      "isEnable": true,
-      "isLandscape": false
-    },
-    {
       "gameID": 256,
       "prefabName": "data/prefabs/ico_dream-live",
       "position": 4,
@@ -613,6 +597,22 @@
       "isEnable": true,
       "isLandscape": false,
       "typeGame": 1
+    },
+    {
+      "gameID": 254,
+      "prefabName": "data/prefabs/ico_bti-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false
+    },
+    {
+      "gameID": 255,
+      "prefabName": "data/prefabs/ico_saba-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false
     },
     {
       "gameID": 258,
