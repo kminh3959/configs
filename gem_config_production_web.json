@@ -615,6 +615,14 @@
       "type": 2,
       "isEnable": true,
       "isLandscape": false
+    },
+    {
+      "gameID": 258,
+      "prefabName": "data/prefabs/ico_s88-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false
     }
   ],
   "isShowEventPopup": false
